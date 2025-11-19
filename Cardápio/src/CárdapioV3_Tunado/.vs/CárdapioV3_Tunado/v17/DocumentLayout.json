@@ -1,0 +1,657 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\cardapio\\exibir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\cardapio\\exibir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\cardapiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\cardapiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\dal\\cardapiodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\dal\\cardapiodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\dal\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\dal\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Piteu\\AppData\\Local\\SourceServer\\ed0ffdcafc1104a9bbb1de2f13d1a5cb12e76e3fb00db044c2414836ff013a6f\\Dapper\\SqlMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\cardapio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\cardapio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\empresa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\empresa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\1b0e72b42ecb4b2908fd1c7545419e8fe22aa6b57137d1286ec60add85b78040\\EndpointRoutingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\a89547de1df6c78131e5a454167f0936ed65275a025f62cf50c6b0af9b1bb9f3\\EndpointMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\cardapio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\cardapio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\dal\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\dal\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\empresa\\empresas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\empresa\\empresas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\listcategoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\listcategoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\produtoempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\produtoempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\categoriaprodutoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\categoriaprodutoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\cardapio\\atualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\cardapio\\atualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\users\\piteu\\documents\\cardapio-main (1)\\cardapio-main\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\dal\\pedidosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\dal\\pedidosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\EmpresaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardapioController.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\CardapioController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\CardapioController.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\CardapioController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\CardapioController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Program.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Program.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Program.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exibir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Exibir.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Exibir.cshtml",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Exibir.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Exibir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T19:00:09.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Pedidos.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Pedidos.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Pedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardapioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\CardapioDAO.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\DAL\\CardapioDAO.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\CardapioDAO.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\DAL\\CardapioDAO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:46:54.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Create.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Create.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T19:00:09.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\DAL\\ConexaoBD.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\ConexaoBD.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\DAL\\ConexaoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ConexaoBD.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ConexaoBD.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ConexaoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SqlMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\AppData\\Local\\SourceServer\\ed0ffdcafc1104a9bbb1de2f13d1a5cb12e76e3fb00db044c2414836ff013a6f\\Dapper\\SqlMapper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\ed0ffdcafc1104a9bbb1de2f13d1a5cb12e76e3fb00db044c2414836ff013a6f\\Dapper\\SqlMapper.cs",
+              "ToolTip": "C:\\Users\\Piteu\\AppData\\Local\\SourceServer\\ed0ffdcafc1104a9bbb1de2f13d1a5cb12e76e3fb00db044c2414836ff013a6f\\Dapper\\SqlMapper.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\ed0ffdcafc1104a9bbb1de2f13d1a5cb12e76e3fb00db044c2414836ff013a6f\\Dapper\\SqlMapper.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAwIgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:25:43.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EndpointRoutingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\1b0e72b42ecb4b2908fd1c7545419e8fe22aa6b57137d1286ec60add85b78040\\EndpointRoutingMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1b0e72b42ecb4b2908fd1c7545419e8fe22aa6b57137d1286ec60add85b78040\\EndpointRoutingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\1b0e72b42ecb4b2908fd1c7545419e8fe22aa6b57137d1286ec60add85b78040\\EndpointRoutingMiddleware.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1b0e72b42ecb4b2908fd1c7545419e8fe22aa6b57137d1286ec60add85b78040\\EndpointRoutingMiddleware.cs [Somente Leitura]",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswHgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:26:01.155Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Index.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Index.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T19:00:09.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Empresa.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Empresa.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Empresa.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeveloperExceptionPageMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs",
+              "ToolTip": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7f98fdaac9d705a68d70434023c6fd56f977204d926dbc0c5754abd48c07be73\\DeveloperExceptionPageMiddleware.cs [Somente Leitura]",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswEkAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:26:02.889Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EndpointMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\a89547de1df6c78131e5a454167f0936ed65275a025f62cf50c6b0af9b1bb9f3\\EndpointMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a89547de1df6c78131e5a454167f0936ed65275a025f62cf50c6b0af9b1bb9f3\\EndpointMiddleware.cs",
+              "ToolTip": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\a89547de1df6c78131e5a454167f0936ed65275a025f62cf50c6b0af9b1bb9f3\\EndpointMiddleware.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a89547de1df6c78131e5a454167f0936ed65275a025f62cf50c6b0af9b1bb9f3\\EndpointMiddleware.cs [Somente Leitura]",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAswGcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:25:59.809Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResourceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs",
+              "ToolTip": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\21859c132d07f728e08c4c05f2840353e0149b97abfab2126ce002cb34542669\\ResourceInvoker.cs [Somente Leitura]",
+              "ViewState": "AgIAALoAAAAAAAAAAAAswMsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:25:55.87Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\Piteu\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f4afc3a88e25fb070f72b4a8058cd7e207766a7e6982c00e0931b159fe6558b6\\ControllerActionInvoker.cs [Somente Leitura]",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAswIABAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:25:52.791Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAAD4UAAAAAAAAAAAAAEcUAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T19:06:06.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap.bundle.js.map",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAD+wAIAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-04T19:06:11.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAABo4gAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T19:06:15.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Empresas.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Empresas.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Empresas.cshtml",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Empresas.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Empresas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T19:00:09.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T19:00:09.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-04T19:00:09.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Index.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Index.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Index.cshtml",
+              "ViewState": "AgIAAIABAAAAAAAAAIBJwKIBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T19:00:09.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProdutoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\ProdutoDAO.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\DAL\\ProdutoDAO.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\ProdutoDAO.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\DAL\\ProdutoDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwCIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-04T19:00:09.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Produto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Produto\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwCMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T19:00:09.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ErrorViewModel.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T19:00:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ListCategoriaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ListCategoriaProduto.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ListCategoriaProduto.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ListCategoriaProduto.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ListCategoriaProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProdutoEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ProdutoEmpresa.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ProdutoEmpresa.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ProdutoEmpresa.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ProdutoEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoriaProdutoView.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\CategoriaProdutoView.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\CategoriaProdutoView.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\CategoriaProdutoView.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\CategoriaProdutoView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Perfil.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Perfil.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Perfil.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Perfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Atualizar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Atualizar.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Atualizar.cshtml",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Atualizar.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Atualizar.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T19:00:09.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PedidosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\PedidosDAO.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\DAL\\PedidosDAO.cs",
+              "ToolTip": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\PedidosDAO.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\DAL\\PedidosDAO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:00:09.88Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
