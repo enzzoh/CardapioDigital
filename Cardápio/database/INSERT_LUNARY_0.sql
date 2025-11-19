@@ -2,7 +2,7 @@
 use cardapio;
 
 
-insert into empresa (Telefone, NomeEmpresa, SenhaEmpresa, FotoEmpresa, CNPJ, taxaEmpresa) values ('5579998881750','Lunary', 'MTIzNDU2Nzg5', '/Images/1empresa_1.png', '99999999999999', 10.00);
+
 insert into categoria (Nome, CategoriaDescricao, CategoriaFoto) values ('Petiscos', 'Otimas escolhas para antes do prato principal', 'https://cdn-icons-png.flaticon.com/512/3063/3063327.png');
 insert into categoria (Nome, CategoriaDescricao, CategoriaFoto) values ('Almoço', 'Otimas escolhas de prato principal', '   https://cdn-icons-png.flaticon.com/512/2082/2082045.png ');
 insert into categoria (Nome, CategoriaDescricao, CategoriaFoto) values ('bebidas', 'Experimente nossas opções geladas e saborosas!', '   https://cdn-icons-png.flaticon.com/512/5821/5821449.png ');

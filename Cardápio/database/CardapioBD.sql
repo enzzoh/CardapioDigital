@@ -56,6 +56,7 @@ create table Pedidos(
     Constraint FK_EmpresaIDPedidos foreign key (EmpresaID) references Empresa(EmpresaID)
 );
 
+insert into empresa (Telefone, NomeEmpresa, SenhaEmpresa, FotoEmpresa, CNPJ, taxaEmpresa) values ('5579998881750','Lunary', 'MTIzNDU2Nzg5', '/Images/1empresa_1.png', '99999999999999', 10.00);
 insert into Empresa (Telefone, NomeEmpresa, SenhaEmpresa, FotoEmpresa, CNPJ, taxaEmpresa, Perfil_Empresa) values ('5579998462497', 'master', 'bWFzdGVyQDEyM0AxMjM=', null, 99999999999995, 10.99, 'MASTER');
 
 
