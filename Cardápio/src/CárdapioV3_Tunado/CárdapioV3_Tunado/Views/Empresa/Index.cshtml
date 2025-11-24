@@ -2,7 +2,7 @@
 <html>
 @model CárdapioV3_Tunado.DAL.EmpresaDAO
 @{
-	CárdapioV3_Tunado.DAL.EmpresaDAO empresa = new CárdapioV3_Tunado.DAL.EmpresaDAO();
+		CárdapioV3_Tunado.DAL.EmpresaDAO empresa = new CárdapioV3_Tunado.DAL.EmpresaDAO();
 }
 @using CárdapioV3_Tunado.Models.enums;
 <head>
@@ -42,7 +42,7 @@
 							<td>@item.EmpresaID</td>
 							<td>@item.NomeEmpresa</td>
 							<td>
-								<input type="text" value="@String.Join("", new string[] { Context.Request.IsHttps ? "https://" : "http://", Context.Request.Host.Value})/cardapio/index?idempresa=@item.EmpresaID" id="@nome">
+								<input type="text" value="@String.Join("", new string[] { Context.Request.IsHttps ? "https://" : "http://", Context.Request.Host.Value })/cardapio/index?idempresa=@item.EmpresaID" id="@nome">
 								<button id="@nomeBotao">Copiar Link</button>
 								<div id="textDisplay"></div>
 							</td>
@@ -64,7 +64,7 @@
 		}
 		else
 		{
-			<div class="header">
+			<div class="header" style="text-align:center">
 
 				<h1>Perfil Empresa</h1>
 
@@ -76,6 +76,7 @@
 							@item.NomeEmpresa
 						}
 					</h2>
+				
 				</div>
 				<br />
 
@@ -83,7 +84,7 @@
 
 			<div class="about">
 				<br />
-				<input type="text" value="@String.Join("", new string[] { Context.Request.IsHttps ? "https://" : "http://", Context.Request.Host.Value})/cardapio/index?idempresa=@int.Parse(User.Identity!.Name)" id="myInput">
+				<input type="text" value="@String.Join("", new string[] { Context.Request.IsHttps ? "https://" : "http://", Context.Request.Host.Value })/cardapio/index?idempresa=@int.Parse(User.Identity!.Name)" id="myInput">
 
 				<button id="copyButton">Copiar</button>
 				<div id="textDisplay"></div>
@@ -98,11 +99,11 @@
 							}
 
 
-						</div>
 					</div>
+				</div>
 
 
-					@functions {
+				@functions {
 					public string FormatTelefone(string telefone)
 					{
 						if (string.IsNullOrWhiteSpace(telefone))
@@ -119,16 +120,16 @@
 					<label for="formGroupExampleInput2">Telefone</label>
 					<div class="input-with-button">
 						@foreach (var item in ViewBag.listadeEmpresas)
-							{
-								<input type="text" value="@FormatTelefone(item.Telefone)" class="form-control telefone-input" id="telefone" readonly>
-							}
-						</div>
+						{
+							<input type="text" value="@FormatTelefone(item.Telefone)" class="form-control telefone-input" id="telefone" readonly>
+						}
 					</div>
+				</div>
 
 
 
 
-					@functions {
+				@functions {
 					public string FormatCnpj(string cnpj)
 					{
 						if (string.IsNullOrWhiteSpace(cnpj))
@@ -145,44 +146,45 @@
 					<label for="formGroupExampleInput">CNPJ</label>
 					<div class="input-with-button">
 						@foreach (var item in ViewBag.listadeEmpresas)
-							{
-								<input type="text" value="@FormatCnpj(item.CNPJ)" class="form-control" id="formGroupExampleInput" readonly>
-							}
-						</div>
+						{
+							<input type="text" value="@FormatCnpj(item.CNPJ)" class="form-control" id="formGroupExampleInput" readonly>
+						}
 					</div>
-					<div class="form-group" style="text-align: left; position: relative;">
-						<label for="formGroupExampleInput2">Senha</label>
-						<div class="input-with-button">
-							@foreach (var item in ViewBag.listadeEmpresas)
-							{
-								<input type="password" value="@empresa.Descriptografar(item.SenhaEmpresa)" class="form-control" id="formGroupExampleInput2" readonly>
-							}
+				</div>
+				<div class="form-group" style="text-align: left; position: relative;">
+					<label for="formGroupExampleInput2">Senha</label>
+					<div class="input-with-button">
+						@foreach (var item in ViewBag.listadeEmpresas)
+						{
+							<input type="password" value="@empresa.Descriptografar(item.SenhaEmpresa)" class="form-control" id="formGroupExampleInput2" readonly>
+						}
 
 
-						</div>
 					</div>
+				</div>
 
-					<div class="form-group" style="text-align: left; position: relative;">
-						<label for="formGroupExampleInput2">Taxa Empresa</label>
-						<div class="input-with-button">
-							@foreach (var item in ViewBag.listadeEmpresas)
-							{
-								<input type="text" value="@item.taxaEmpresa.ToString("0.00")" class="form-control" id="formGroupExampleInput2" readonly>
-							}
-						</div>
+				<div class="form-group" style="text-align: left; position: relative;">
+					<label for="formGroupExampleInput2">Taxa Empresa</label>
+					<div class="input-with-button">
+						@foreach (var item in ViewBag.listadeEmpresas)
+						{
+							<input type="text" value="@item.taxaEmpresa.ToString("0.00")" class="form-control" id="formGroupExampleInput2" readonly>
+						}
 					</div>
+				</div>
 
 
 
-				</form>
+			</form>
 
-				<a type="button" class="btn btn-primary edit-button" style="margin-left: 630px; margin-top: -550px;" href="/Empresa/Atualizar">Editar</a>
+			
+			<a type="button" class="btn btn-primary edit-button"  href="/Empresa/Atualizar">Editar</a>
 
-
-			</div>
-		}
-
+		</div>
 		
+				}
+
+
 
 	</div>
 

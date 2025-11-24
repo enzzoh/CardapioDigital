@@ -1825,11 +1825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
+      "projectUniqueName": "C:\\CardapioDigital\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
       "projectName": "CárdapioV3_Tunado",
-      "projectPath": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
+      "projectPath": "C:\\CardapioDigital\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
       "packagesPath": "C:\\Users\\Piteu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\obj\\",
+      "outputPath": "C:\\CardapioDigital\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1900,7 +1900,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   },

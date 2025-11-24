@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LG315jCiRn0=",
+  "dgSpecHash": "WGapFuhZJNI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
+  "projectFilePath": "C:\\CardapioDigital\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Piteu\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Piteu\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
@@ -44,9 +44,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "O pacote 'System.Data.SqlClient' 4.8.5 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
-      "projectPath": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
+      "projectPath": "C:\\CardapioDigital\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Piteu\\Documents\\Cardapio-main (1)\\Cardapio-main\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
+      "filePath": "C:\\CardapioDigital\\Cardápio\\src\\CárdapioV3_Tunado\\CárdapioV3_Tunado\\CárdapioV3_Tunado.csproj",
       "libraryId": "System.Data.SqlClient",
       "targetGraphs": [
         "net6.0"

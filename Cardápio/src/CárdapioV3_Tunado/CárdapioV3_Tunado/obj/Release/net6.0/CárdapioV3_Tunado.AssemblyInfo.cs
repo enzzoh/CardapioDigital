@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CárdapioV3_Tunado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc0d32b2479fe8e3e0e3eafb837e681e10166304")]
 [assembly: System.Reflection.AssemblyProductAttribute("CárdapioV3_Tunado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CárdapioV3_Tunado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
