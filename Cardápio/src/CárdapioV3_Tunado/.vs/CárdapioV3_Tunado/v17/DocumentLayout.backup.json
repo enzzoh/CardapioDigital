@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\produtoempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\produtoempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\dal\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\dal\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\cardapio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\cardapio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\empresa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\empresa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\dal\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\dal\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\cardapiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\cardapiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\empresa\\empresas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\empresa\\empresas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\cardapio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\cardapio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\listcategoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\listcategoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\cardapio\\exibir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\cardapio\\exibir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\models (alterado)\\categoriaprodutoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\models (alterado)\\categoriaprodutoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\views\\cardapio\\atualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\views\\cardapio\\atualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|c:\\cardapiodigital\\card\u00E1pio\\src\\c\u00E1rdapiov3_tunado\\c\u00E1rdapiov3_tunado\\dal\\pedidosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3B9869-7825-49C5-8E1D-B3B0AAA84230}|C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado.csproj|solutionrelative:c\u00E1rdapiov3_tunado\\dal\\pedidosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\DAL\\ConexaoBD.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\ConexaoBD.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\DAL\\ConexaoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ConexaoBD.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ConexaoBD.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ConexaoBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Empresa.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Empresa.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Empresa.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ErrorViewModel.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ErrorViewModel.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Pedidos.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Pedidos.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Pedidos.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Pedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Perfil.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Perfil.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Perfil.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\Perfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoEmpresa.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ProdutoEmpresa.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ProdutoEmpresa.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ProdutoEmpresa.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ProdutoEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-25T02:45:17.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Index.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Index.cshtml",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Index.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:45:17.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Empresas.cshtml",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Empresas.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Empresas.cshtml",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Empresas.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Empresa\\Empresas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:45:17.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:45:17.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Index.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Index.cshtml",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Index.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Index.cshtml",
+              "ViewState": "AQIAAIMBAAAAAAAAAAAAAKIBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:45:16.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProdutoDAO.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\ProdutoDAO.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\DAL\\ProdutoDAO.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\ProdutoDAO.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\DAL\\ProdutoDAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-25T02:45:17.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CardapioController.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\CardapioController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\CardapioController.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\CardapioController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\CardapioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Create.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Create.cshtml",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Create.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Create.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:45:17.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\EmpresaController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Produto\\Create.cshtml",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Produto\\Create.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:45:17.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAwwBsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:45:17.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ListCategoriaProduto.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ListCategoriaProduto.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ListCategoriaProduto.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ListCategoriaProduto.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\ListCategoriaProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoriaProdutoView.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\CategoriaProdutoView.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\CategoriaProdutoView.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Models (Alterado)\\CategoriaProdutoView.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Models (Alterado)\\CategoriaProdutoView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Exibir.cshtml",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Exibir.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Exibir.cshtml",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Exibir.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Exibir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:45:17.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Program.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Program.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Program.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Atualizar.cshtml",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Atualizar.cshtml",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Atualizar.cshtml",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Atualizar.cshtml",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\Views\\Cardapio\\Atualizar.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T02:45:17.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PedidosDAO.cs",
+              "DocumentMoniker": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\PedidosDAO.cs",
+              "RelativeDocumentMoniker": "C\u00E1rdapioV3_Tunado\\DAL\\PedidosDAO.cs",
+              "ToolTip": "C:\\CardapioDigital\\Card\u00E1pio\\src\\C\u00E1rdapioV3_Tunado\\C\u00E1rdapioV3_Tunado\\DAL\\PedidosDAO.cs",
+              "RelativeToolTip": "C\u00E1rdapioV3_Tunado\\DAL\\PedidosDAO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:45:17.099Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
