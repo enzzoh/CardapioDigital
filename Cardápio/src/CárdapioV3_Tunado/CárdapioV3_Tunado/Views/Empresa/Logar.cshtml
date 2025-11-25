@@ -1,105 +1,56 @@
-﻿<!DOCTYPE html>
-<html lang="pt-br">
+﻿<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LoginScreen</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-          theme: {
-            extend: {
-              fontFamily: {
-                sans: ['Inter', 'sans-serif'],
-              },
-            },
-          },
-        }
-    </script> <!-- CORRIGIDO: de </scr> para </script> -->
-    <style>
-        /* CORREÇÃO DE TAMANHO:
-                Isso garante que o padding e a borda sejam incluídos
-                no tamanho total do elemento, forçando o input e o botão
-                a terem exatamente a mesma altura.
-              */
-        *, *::before, *::after {
-            box-sizing: border-box;
-        }
-    </style>
+    <link rel="stylesheet" href="/css/StyleSheet.css">
 </head>
-<body class="bg-yellow-100 font-sans">
+<body>
+    <div>
 
-    <div class="min-h-screen flex items-center justify-center p-4">
-
-        <div class="flex flex-col md:flex-row w-full max-w-4xl bg-white rounded-2xl shadow-2xl overflow-hidden">
-
-            <div class="hidden md:flex w-full md:w-1/2 bg-pink-500 items-center justify-center p-12">
-                <!-- Caminho CSHTML mantido -->
-                <img src="~/Images/undraw_login_re_4vu2.svg"
-                     alt="Ilustração de login"
-                     class="w-full h-auto max-w-sm"
-                     onerror="this.src='https://placehold.co/400x400/f472b6/ffffff?text=Login'">
+        <div class="metal">
+            <div class="form-image">
+                <img src="~/Images/undraw_login_re_4vu2.svg" alt="">
             </div>
-
-            <div class="w-full md:w-1/2 p-8 md:p-16">
-
+            <div class="form">
                 <form action="/Empresa/Logar" method="post">
-
-                    <div class="form-header mb-8">
+                    <div class="form-header">
                         <div class="title">
-                            <h1 class="text-4xl font-bold text-gray-900">Entre</h1>
-                            <div class="w-20 h-1 bg-red-600 mt-2 rounded-full"></div>
+                            <h1>Entre</h1>
                         </div>
+
+
+
+
                     </div>
-
-                    <div class="input-group space-y-6">
-
+                    <div class="input-group">
                         <div class="input-box">
-                            <label for="NomeEmpresa" class="block text-sm font-medium text-gray-700 mb-2">Nome da Empresa</label>
-
-                            <input id="NomeEmpresa"
-                                   type="text"
-                                   name="NomeEmpresa"
-                                   placeholder="Digite o nome da empresa"
-                                   required
-                                   class="w-full px-4 py-3 bg-gray-50 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500">
+                            <label for="NomeEmpresa">Nome da Empresa</label>
+                            <input id="NomeEmpresa" type="text" name="NomeEmpresa" placeholder="Digite o Nome da empresa" required>
                         </div>
 
                         <div class="input-box">
-                            <label for="SenhaEmpresa" class="block text-sm font-medium text-gray-700 mb-2">Senha</label>
-
-                            <input id="SenhaEmpresa"
-                                   type="password"
-                                   name="SenhaEmpresa"
-                                   placeholder="Digite a senha"
-                                   required
-                                   class="w-full px-4 py-3 bg-gray-50 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500">
-                        </div>
-                    </div>
-
-                    <div class="mt-10 space-y-4">
-                        <div class="continue-button">
-                            <button type="submit"
-                                    class="w-full text-center bg-red-600 text-white font-bold py-3 px-4 rounded-lg hover:bg-red-700 transition duration-300 shadow-lg">
-                                Continuar
-                            </button>
+                            <label for="SenhaEmpresa">Senha</label>
+                            <input id="SenhaEmpresa" type="password" name="SenhaEmpresa" placeholder="Digite a senha" required>
                         </div>
 
                         <div class="continue-button">
-                            <a href="/Empresa/Create"
-                               class="w-full block text-center bg-red-600 text-white font-bold py-3 px-4 rounded-lg hover:bg-red-700 transition duration-300 shadow-lg">
-                                Cadastre-se
-                            </a>
+                            <button><a type="submit" class="btn btn-outline-secondary">Continuar</a></button>
                         </div>
-                    </div>
 
+
+                        <div class="continue-button">
+                          <button><a href="/Empresa/Create">Cadastre-se</a></button>
+                        </div>
+
+
+
+                    </div>
                 </form>
-
+                
             </div>
         </div>
-
     </div>
-
 </body>
 </html>
